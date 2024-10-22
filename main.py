@@ -34,7 +34,7 @@ def display_all_students():
         print("No students found/added")
 def main():
     while True:
-        print("\n1. Add Student")
+        print("\n 1. Add Student")
         print("2. Update Student")
         print("3. Delete Student")
         print("4. View Students")
